@@ -1,0 +1,16 @@
+form input:focus{
+    outline: none;
+}
+form {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 5px;
+}
+
+.font {
+    font-family: 'Roboto-Regular';
+}
+
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url("../fonts/Roboto-Regular.ttf");
+}
